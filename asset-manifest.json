@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.e647810f.css",
-    "main.js": "/test/static/js/main.20febdbd.js",
+    "main.css": "/test/static/css/main.2de1ede0.css",
+    "main.js": "/test/static/js/main.b76af8b4.js",
     "static/js/787.c1112931.chunk.js": "/test/static/js/787.c1112931.chunk.js",
     "static/media/slide-effect.png": "/test/static/media/slide-effect.58c17e85348120ed449b.png",
     "static/media/kopen.png": "/test/static/media/kopen.5a4e995f258827c040a9.png",
@@ -11,17 +11,17 @@
     "static/media/ArrayM.png": "/test/static/media/ArrayM.61d843dbd38c65b36800.png",
     "static/media/JavaScript.png": "/test/static/media/JavaScript.3517d7aaf0cbb3e3dbb2.png",
     "static/media/pokedex.png": "/test/static/media/pokedex.1e97097a99d9a9228708.png",
+    "static/media/photo1.png": "/test/static/media/photo1.0bfa57b43db787536912.png",
     "static/media/Kursbevis.png": "/test/static/media/Kursbevis.902deb65a229999e3c60.png",
     "static/media/nokut.png": "/test/static/media/nokut.22b80b022373efcb1683.png",
-    "static/media/DSC01594-removebg-preview.png": "/test/static/media/DSC01594-removebg-preview.1be2a94b83bf0876e542.png",
     "index.html": "/test/index.html",
     "static/media/arrow.svg": "/test/static/media/arrow.f9b4a564db678617e2a21ee8189e5fe2.svg",
-    "main.e647810f.css.map": "/test/static/css/main.e647810f.css.map",
-    "main.20febdbd.js.map": "/test/static/js/main.20febdbd.js.map",
+    "main.2de1ede0.css.map": "/test/static/css/main.2de1ede0.css.map",
+    "main.b76af8b4.js.map": "/test/static/js/main.b76af8b4.js.map",
     "787.c1112931.chunk.js.map": "/test/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e647810f.css",
-    "static/js/main.20febdbd.js"
+    "static/css/main.2de1ede0.css",
+    "static/js/main.b76af8b4.js"
   ]
 }
