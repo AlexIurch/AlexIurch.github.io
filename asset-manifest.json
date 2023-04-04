@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.ee090c66.css",
-    "main.js": "/test/static/js/main.ba137cd1.js",
+    "main.css": "/test/static/css/main.d6dcf07d.css",
+    "main.js": "/test/static/js/main.afe13856.js",
     "static/js/787.c1112931.chunk.js": "/test/static/js/787.c1112931.chunk.js",
     "static/media/jul.png": "/test/static/media/jul.9e21427b5fba7d7861f9.png",
-    "static/media/slide-effect.png": "/test/static/media/slide-effect.58c17e85348120ed449b.png",
     "static/media/kopen.png": "/test/static/media/kopen.5a4e995f258827c040a9.png",
-    "static/media/Solar System.png": "/test/static/media/Solar System.d1263daacbe95d79c67d.png",
+    "static/media/slide-effect.png": "/test/static/media/slide-effect.279811ff82c2ce34a5e5.png",
+    "static/media/Electro.png": "/test/static/media/Electro.eca977c17c21dff817ac.png",
     "static/media/cv.png": "/test/static/media/cv.fc49669e86a0f1632619.png",
+    "static/media/Solar System.png": "/test/static/media/Solar System.fe46363acca1e0e75200.png",
     "static/media/Provebevis.png": "/test/static/media/Provebevis.491f311f82dce3eacaea.png",
     "static/media/html.png": "/test/static/media/html.73ff0c6eaa22746fec8e.png",
     "static/media/ArrayM.png": "/test/static/media/ArrayM.61d843dbd38c65b36800.png",
@@ -18,12 +19,12 @@
     "static/media/nokut.png": "/test/static/media/nokut.ce5b73f6d3525c7da082.png",
     "index.html": "/test/index.html",
     "static/media/arrow.svg": "/test/static/media/arrow.f9b4a564db678617e2a21ee8189e5fe2.svg",
-    "main.ee090c66.css.map": "/test/static/css/main.ee090c66.css.map",
-    "main.ba137cd1.js.map": "/test/static/js/main.ba137cd1.js.map",
+    "main.d6dcf07d.css.map": "/test/static/css/main.d6dcf07d.css.map",
+    "main.afe13856.js.map": "/test/static/js/main.afe13856.js.map",
     "787.c1112931.chunk.js.map": "/test/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee090c66.css",
-    "static/js/main.ba137cd1.js"
+    "static/css/main.d6dcf07d.css",
+    "static/js/main.afe13856.js"
   ]
 }
